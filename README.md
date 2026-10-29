@@ -27,4 +27,4 @@ Public Seattle Airbnb dataset (Kaggle), three tables:
 Tableau Desktop, Tableau Public, Excel
 
 ## Author
-Deniel Rakhmatullin
+Deniel Rahmatullin
