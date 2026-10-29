@@ -4,6 +4,8 @@ Interactive Tableau dashboard analysing Airbnb listings in Seattle: price by are
 
 Live dashboard: https://public.tableau.com/app/profile/.74781018/viz/airbnb-seattle_17932769878030/Dashboard1
 
+![Dashboard](dashboard.png)
+
 ## Data
 Public Seattle Airbnb dataset (Kaggle), three tables:
 - Listings: about 3,800 listings (price, bedrooms, zipcode, etc.)
@@ -27,4 +29,4 @@ Public Seattle Airbnb dataset (Kaggle), three tables:
 Tableau Desktop, Tableau Public, Excel
 
 ## Author
-Deniel Rahmatullin
+Deniel Rakhmatullin
